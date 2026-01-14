@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beinsport 1",beinsport 1
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=ts
+#EXTINF:-1 tvg-id="Beinsport 2",Beinsport 2
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=ts
